@@ -16,7 +16,7 @@ Ez a repository egy NGINX alapú Docker image-et készít és feltölti a Docker
 - Git megléte
 - Docker megléte
 
-### **1. Repository klónozása**
+### **Repository klónozása**
 
 - Klónozzuk a repository-t
 
@@ -29,6 +29,8 @@ git clone https://github.com/muharia/GitHub-Homework.git
 ```bash
 cd GitHub-Homework
 ```
+
+### **Docker image készítése és futtatása**
 
 - Docker segítségével építsük fel az image-et
 
