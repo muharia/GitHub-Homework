@@ -38,7 +38,7 @@ cd GitHub-Homework
 docker build -t homework:latest .
 ```
 
-- Diocker segítségével indítsuk el az elkészült image-et a 80-as port átirányításával
+- Docker segítségével indítsuk el az elkészült image-et a 80-as port átirányításával
 
 ```bash
 docker run -p 80:80 homework:latest
